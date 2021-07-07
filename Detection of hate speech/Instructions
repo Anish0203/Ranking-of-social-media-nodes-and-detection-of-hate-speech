@@ -1,0 +1,2 @@
+1) It took less than 10 minutes for main.py inside to run and generate RF.csv, SVM.csv and FT.csv inside predictions folder.
+2) The libraries imported are pandas,numpy,string,sklearn,spacy,fasttest,en_core_web_md
