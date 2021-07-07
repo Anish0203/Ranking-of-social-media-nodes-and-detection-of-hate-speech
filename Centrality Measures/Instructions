@@ -1,0 +1,8 @@
+1) It took less than a minute to generate closeness centrality file
+2) It took around 35 minutes to generate betweeness centrality file
+3) It took less than a minute to generate pagerank file
+
+Output of Task 2 as generated on my machine:
+#overlaps for Closeness Centrality: 100
+#overlaps for Betweenness Centrality: 99
+#overlaps for PageRank Centrality: 60
