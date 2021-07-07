@@ -4,12 +4,12 @@
 
 The edge list of Facebook social circles from the SNAP website has been used.
 
-Code file named: gen_centrality.py contains functions to compute the following centrality metrics for a graph:
+Code file named gen_centrality.py contains functions to compute the following centrality metrics for a graph:
 1) Closeness Centrality
 2) Betweenness Centrality
 3) Biased PageRank
 
-Code file naemd: analyze_centrality.py contains in-built functions to compute the above mentioned centrality metrics and compares it with the user defined functions and returns how many nodes overlap.
+Code file named analyze_centrality.py contains in-built functions to compute the above mentioned centrality metrics and compares it with the user defined functions and returns how many nodes overlap.
 
 
 ## Detection of hate speech
